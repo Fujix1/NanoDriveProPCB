@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LonganVGM-rescue")(type "KiCad")(uri "${KIPRJMOD}/LonganVGM-rescue.kicad_sym")(options "")(descr ""))
+)
